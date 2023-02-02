@@ -14,7 +14,7 @@ jobs:
         cache: maven
     - name: Change Location
       run: 
-        cd ApplitoolsEyes\ApplitoolsTest
+        cd ApplitoolsTest
     - name: Build with Maven
       run: 
         mvn test
