@@ -27,7 +27,7 @@ public class SeleniumTest {
         eyes = new Eyes();
         driver = new ChromeDriver();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
-        eyes.setApiKey("S7qk94UXDbjHTqHxtVioiphR4OXanxqJgtFBiYQPIfo110");
+        eyes.setApiKey("6CBR3XxBj8jzI3EHE4G4E7j4X0Ybie1F990Z102fz3Iflg110");
 
         /*
         TakesScreenshot screenshot = (TakesScreenshot)driver;
